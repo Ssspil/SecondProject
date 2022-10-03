@@ -277,4 +277,4 @@ public class Certification {
 * 이건 - Lee Gun - LeeGun@naver.com - @[imdaeyong](https://github.com/imdaeyong) [Back/PL]
 * 전민우 - Jeon Min Woo - JeonMinWoo@gmail.com - @[kkmwkk](https://github.com/kkmwkk) [Back]
 * 안형관 - An Hyeong Kwan - AnHyeongKwan@gmail.com - @[hyungtaik](https://github.com/hyungtaik) [Back]
-* 정슬필 - Jeong Seung Pil - JeongSeungPil@gmail.com - @[Ssspil](https://github.com/Ssspil) [Front]
+* 정승필 - Jeong Seung Pil - JeongSeungPil@gmail.com - @[Ssspil](https://github.com/Ssspil) [Front]
