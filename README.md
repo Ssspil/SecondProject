@@ -91,8 +91,8 @@ public class Certification {
         }
 
         HttpClient httpClient = HttpClientBuilder.create()
-                .setMaxConnTotal(200)
-                .setMaxConnPerRoute(20)
+                .setMaxConnTotal(200)   // maxConnTotal은 연결을 유지할 최대 숫자
+                .setMaxConnPerRoute(20)   // maxConnPerRoute는 특정 경로당 최대 숫자
                 .build();
         httpRequestFactory.setHttpClient(httpClient);
         // RestTemplate
